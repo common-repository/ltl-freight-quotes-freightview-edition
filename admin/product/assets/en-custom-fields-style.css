@@ -1,0 +1,17 @@
+._nestedMaterials_tr .description a {
+    text-decoration: none;
+    font-size: 17px;
+    color: red;
+    font-weight: bold;
+    position: relative;
+    font-style: normal;
+    top: 3px;
+}
+
+._nestedMaterials_tr .description {
+    font-style: normal;
+    font-size: 13px;
+}
+._nestedDimension, ._nestedStakingProperty {
+    width: 50% !important;
+}
